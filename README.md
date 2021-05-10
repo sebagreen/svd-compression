@@ -1,3 +1,3 @@
-# Image Compression using SVD
+# SVD Image Compression
 
 An image compression demo using Singular Value Decomposition (SVD).
